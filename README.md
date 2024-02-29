@@ -1,4 +1,4 @@
-🌐Picture in a picture bookmarklet that enables you to put any video into PiP even if it doesnt have it. 
+🌐Picture in a Picture bookmarklet that enables you to put any video into PiP even if it doesnt have it. 
 
 (This includes hulu, hbo, disney, ect)
 
