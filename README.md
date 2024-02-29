@@ -1,3 +1,3 @@
-# 🌐PIPBookmarklet 
+# 🌐PIP Bookmarklet 
 
-Enables you to put any video into PiP even if it doesnt have it. (This includes hulu, hbo, disney, ect)
+Enables you to put any video into Picture in Picture even if it doesnt allow it. (This includes Hulu, HBO, Disney, ect)
